@@ -1,0 +1,15 @@
+##################################################################################
+#       Awesome Filtering Animation with React Tutorial
+#       https://youtu.be/nyg5Lpl6AiM
+#       Dev Ed
+##################################################################################
+
+
+
+npx create-react-app movie-filter
+cd movie-filter
+npm install framer-motion
+
+
+> https://developers.themoviedb.org/3/movies/get-popular-movies
+
